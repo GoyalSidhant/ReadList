@@ -6,3 +6,4 @@
 - [GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis
 ](https://arxiv.org/abs/2402.13494v1?)
 - [Lorax](https://predibase.github.io/lorax/)
+- [ollama : One of the easiest ways to try out the LLMs locally](https://github.com/ollama/ollama)
